@@ -32,6 +32,6 @@ Feature Engineering: Applied Wavelet Transform (using pywt) to extract high-freq
 
 -> Feature Engineering using Wavelet Transforms
 
-Model Selection and Hyperparameter Tuning with GridSearchCV
+-> Model Selection and Hyperparameter Tuning with GridSearchCV
 
-Deployment-Ready Machine Learning Pipelines
+-> Deployment-Ready Machine Learning Pipelines
